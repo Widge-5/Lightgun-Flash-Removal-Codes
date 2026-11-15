@@ -1,0 +1,9 @@
+# Game: Time Crisis: Project Titan
+# Compatible releases: NTSC-U, SLUS-01336
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "8001C02A 1000"
+cheat0_enable = "false"
+cheat0_handler = "0"

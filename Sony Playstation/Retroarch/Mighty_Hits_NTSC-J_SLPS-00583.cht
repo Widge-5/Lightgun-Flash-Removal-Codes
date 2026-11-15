@@ -1,0 +1,9 @@
+# Game: Mighty Hits
+# Compatible releases: NTSC-J, SLPS-00583
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "8001E32A 2400"
+cheat0_enable = "false"
+cheat0_handler = "0"

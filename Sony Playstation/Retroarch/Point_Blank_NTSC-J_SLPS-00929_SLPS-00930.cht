@@ -1,0 +1,10 @@
+# Game: Point Blank / GunBullet
+# Compatible releases: NTSC-J: SLPS-00929 GunCon bundle; SLPS-00930 original and Rev 1
+# Alternate title: GunBullet
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "800232A2 1000"
+cheat0_enable = "false"
+cheat0_handler = "0"

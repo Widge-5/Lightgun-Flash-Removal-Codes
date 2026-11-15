@@ -1,0 +1,9 @@
+# Game: Judge Dredd
+# Compatible releases: PAL, SLES-00755
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "D007A450 F44C+8007A456 2400"
+cheat0_enable = "false"
+cheat0_handler = "0"

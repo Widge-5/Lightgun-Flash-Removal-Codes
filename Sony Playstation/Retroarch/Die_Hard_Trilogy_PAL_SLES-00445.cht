@@ -1,0 +1,9 @@
+# Game: Die Hard Trilogy (Die Hard 2)
+# Compatible releases: PAL, SLES-00445
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "D0022B38 40F0+80022B3E 2400"
+cheat0_enable = "false"
+cheat0_handler = "0"

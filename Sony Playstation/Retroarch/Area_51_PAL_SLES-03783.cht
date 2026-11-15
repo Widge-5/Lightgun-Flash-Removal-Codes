@@ -1,0 +1,9 @@
+# Game: Area 51
+# Compatible releases: PAL, SLES-03783
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "8003A582 2400"
+cheat0_enable = "false"
+cheat0_handler = "0"

@@ -1,0 +1,9 @@
+# Game: Star Wars: Rebel Assault II - The Hidden Empire
+# Compatible releases: NTSC-U: Disc 1 SLUS-00381; Disc 2 SLUS-00386
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "8007BE68 0000+8005DCDC 0000+80068856 2400+8006964A 2400"
+cheat0_enable = "false"
+cheat0_handler = "0"

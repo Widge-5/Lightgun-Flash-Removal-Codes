@@ -1,0 +1,10 @@
+# Game: Crypt Killer
+# Compatible releases: PAL, SLES-00292
+# Also suppresses ordinary full-screen fades using the same descriptor.
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "800591E4 0000"
+cheat0_enable = "false"
+cheat0_handler = "0"

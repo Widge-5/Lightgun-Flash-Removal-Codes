@@ -1,0 +1,9 @@
+# Game: Cellophanes
+# Compatible releases: NTSC-J, SLPS-01081
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "D0043658 22F5+80043632 1000+D004351C 2434+800434F2 1000+D0042D80 2354+80042D56 1000"
+cheat0_enable = "false"
+cheat0_handler = "0"

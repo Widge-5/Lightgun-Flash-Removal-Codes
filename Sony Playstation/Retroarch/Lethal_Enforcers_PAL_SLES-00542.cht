@@ -1,0 +1,9 @@
+# Game: Lethal Enforcers
+# Compatible releases: PAL, SLES-00542
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "80036A42 2400+80036A66 2400+80036A8E 2400+80036AE2 2400"
+cheat0_enable = "false"
+cheat0_handler = "0"

@@ -1,0 +1,15 @@
+# Game: Time Crisis: Project Titan
+# Compatible releases: PAL, SCES-02776
+# Enable only one flash-removal option at a time.
+
+cheats = "2"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "8001BB2A A380"
+cheat0_enable = "false"
+cheat0_handler = "0"
+
+cheat1_desc = "Remove lightgun flashes (alternative)"
+cheat1_code = "8001BD2E 1000"
+cheat1_enable = "false"
+cheat1_handler = "0"

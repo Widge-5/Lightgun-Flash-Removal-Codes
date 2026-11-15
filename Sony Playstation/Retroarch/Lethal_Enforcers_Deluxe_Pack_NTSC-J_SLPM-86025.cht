@@ -1,0 +1,10 @@
+# Game: Lethal Enforcers Deluxe Pack
+# Compatible releases: NTSC-J, SLPM-86025
+# Alternate title: Lethal Enforcers I & II
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "80036A1A 2400+80036A3E 2400+80036A66 2400+80036ABA 2400"
+cheat0_enable = "false"
+cheat0_handler = "0"

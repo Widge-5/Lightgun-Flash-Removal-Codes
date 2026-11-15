@@ -1,0 +1,9 @@
+# Game: Gunbare! The Game Paradise 2
+# Compatible releases: NTSC-J, SLPS-01322
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "800176D0 FC13+800176D2 33E2+800176D4 7C10+800176D6 3842+800176F4 0010+800176F6 1040"
+cheat0_enable = "false"
+cheat0_handler = "0"

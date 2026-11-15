@@ -1,0 +1,15 @@
+# Game: Resident Evil Survivor
+# Compatible releases: NTSC-U, SLUS-01087; unpatched or res_us_fix.ppf-patched disc
+# The flash code works with either disc. Enable Restore lightgun support only on an unpatched disc if needed.
+
+cheats = "2"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "80011386 2400"
+cheat0_enable = "false"
+cheat0_handler = "0"
+
+cheat1_desc = "Restore lightgun support (unpatched disc only)"
+cheat1_code = "80010F3E 2400+80010F62 2400+80010F72 2400"
+cheat1_enable = "false"
+cheat1_handler = "0"

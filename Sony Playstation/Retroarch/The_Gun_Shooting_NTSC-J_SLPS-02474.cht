@@ -1,0 +1,10 @@
+# Game: The Gun Shooting
+# Compatible releases: NTSC-J, SLPS-02474
+# Also removes other additive overlays that use the same drawing routine.
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "800FE932 03E0"
+cheat0_enable = "false"
+cheat0_handler = "0"

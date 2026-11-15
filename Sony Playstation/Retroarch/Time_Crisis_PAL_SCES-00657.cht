@@ -1,0 +1,15 @@
+# Game: Time Crisis
+# Compatible releases: PAL, SCES-00657
+# Enable only one flash-removal option at a time.
+
+cheats = "2"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "80013D86 1000"
+cheat0_enable = "false"
+cheat0_handler = "0"
+
+cheat1_desc = "Remove lightgun flashes (alternative)"
+cheat1_code = "80013D9A 1000"
+cheat1_enable = "false"
+cheat1_handler = "0"

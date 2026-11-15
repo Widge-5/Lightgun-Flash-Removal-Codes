@@ -1,0 +1,9 @@
+# Game: Area 51
+# Compatible releases: NTSC-J: SLPS-00725 Special Pack; SLPS-00726 standard release
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "8003A406 2400"
+cheat0_enable = "false"
+cheat0_handler = "0"

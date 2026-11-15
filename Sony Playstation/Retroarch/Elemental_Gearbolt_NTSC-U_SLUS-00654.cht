@@ -1,0 +1,10 @@
+# Game: Elemental Gearbolt
+# Compatible releases: NTSC-U, SLUS-00654
+# GunCon emulation only. This code does not work with the Konami gun (Hyper Blaster / Justifier).
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "D0052A60 0204+8002442A 3007"
+cheat0_enable = "false"
+cheat0_handler = "0"

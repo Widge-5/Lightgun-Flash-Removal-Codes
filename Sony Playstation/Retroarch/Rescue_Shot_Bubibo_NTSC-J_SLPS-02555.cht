@@ -1,0 +1,10 @@
+# Game: Rescue Shot Bubibo
+# Compatible releases: NTSC-J, SLPS-02555
+# Alternate title: Rescue Shot
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "8001351E 1000"
+cheat0_enable = "false"
+cheat0_handler = "0"

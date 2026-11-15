@@ -1,0 +1,9 @@
+# Game: Judge Dredd
+# Compatible releases: NTSC-U, SLUS-00630
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "D007A548 9DE0+8007A54E 2400"
+cheat0_enable = "false"
+cheat0_handler = "0"

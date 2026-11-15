@@ -1,0 +1,9 @@
+# Game: Project Horned Owl
+# Compatible releases: NTSC-U, SCUS-94408
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "800215F8 FFFD+80014028 0001"
+cheat0_enable = "false"
+cheat0_handler = "0"

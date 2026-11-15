@@ -1,0 +1,9 @@
+# Game: Time Crisis
+# Compatible releases: NTSC-U, SLUS-00405
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "800137E2 1000"
+cheat0_enable = "false"
+cheat0_handler = "0"

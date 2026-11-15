@@ -1,0 +1,9 @@
+# Game: Point Blank 2
+# Compatible releases: NTSC-U, SLUS-00796
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "80023F7A 1000"
+cheat0_enable = "false"
+cheat0_handler = "0"

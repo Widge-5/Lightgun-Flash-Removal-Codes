@@ -1,0 +1,9 @@
+# Game: Area 51
+# Compatible releases: NTSC-U, SLUS-00164, Original release
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "80039E2E 2400"
+cheat0_enable = "false"
+cheat0_handler = "0"

@@ -1,0 +1,9 @@
+# Game: Point Blank 3
+# Compatible releases: PAL, SCES-03383
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "8002463A 1000"
+cheat0_enable = "false"
+cheat0_handler = "0"

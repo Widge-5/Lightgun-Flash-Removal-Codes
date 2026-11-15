@@ -1,0 +1,9 @@
+# Game: Die Hard Trilogy 2: Viva Las Vegas
+# Compatible releases: NTSC-U, SLUS-01015
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "80027082 2400+800270A2 2400+800270D4 FFFF+80027D10 9F6E+80027D12 0800"
+cheat0_enable = "false"
+cheat0_handler = "0"

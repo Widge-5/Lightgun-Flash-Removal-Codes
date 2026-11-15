@@ -1,0 +1,9 @@
+# Game: Die Hard Trilogy 2: Viva Las Vegas
+# Compatible releases: PAL, SLES-02746
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "8002702E 2400+8002704E 2400+80027080 FFFF+80027CC0 9F5A+80027CC2 0800"
+cheat0_enable = "false"
+cheat0_handler = "0"

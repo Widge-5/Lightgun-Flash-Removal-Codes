@@ -1,0 +1,9 @@
+# Game: Guntu: Western Front June 1944
+# Compatible releases: NTSC-J, SLPS-01106
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "80054B00 52F4"
+cheat0_enable = "false"
+cheat0_handler = "0"

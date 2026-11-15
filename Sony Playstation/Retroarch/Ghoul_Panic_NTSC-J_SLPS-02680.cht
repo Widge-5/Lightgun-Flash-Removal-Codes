@@ -1,0 +1,10 @@
+# Game: Ghoul Panic (Oh! Bakyuuun)
+# Compatible releases: NTSC-J, SLPS-02680
+# Alternate title: Oh! Bakyuuun
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "8018B9A2 2400+8018B9CE 2400"
+cheat0_enable = "false"
+cheat0_handler = "0"

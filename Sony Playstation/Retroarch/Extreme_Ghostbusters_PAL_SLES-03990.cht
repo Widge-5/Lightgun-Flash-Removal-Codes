@@ -1,0 +1,9 @@
+# Game: Extreme Ghostbusters
+# Compatible releases: PAL, SLES-03990
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "8002AF9E 2400"
+cheat0_enable = "false"
+cheat0_handler = "0"

@@ -1,0 +1,9 @@
+# Game: Die Hard Trilogy (Die Hard 2)
+# Compatible releases: NTSC-J, SLPS-00585
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "D0022740 3414+80022746 2400"
+cheat0_enable = "false"
+cheat0_handler = "0"

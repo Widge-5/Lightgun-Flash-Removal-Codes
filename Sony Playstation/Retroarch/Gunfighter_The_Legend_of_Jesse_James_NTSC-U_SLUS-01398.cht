@@ -1,0 +1,9 @@
+# Game: Gunfighter: The Legend of Jesse James
+# Compatible releases: NTSC-U, SLUS-01398
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "8001D3FE 2400"
+cheat0_enable = "false"
+cheat0_handler = "0"

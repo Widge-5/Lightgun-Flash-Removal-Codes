@@ -1,0 +1,9 @@
+# Game: Puffy's P.S. I Love You
+# Compatible releases: NTSC-J, ESPM-70003
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "80015942 1000+80015A70 01C8+80015A72 8FA4+80015A78 2080+80015A7A 0004+8002428E 2400+800292A4 E5B0+800292A8 2021+800292AA 0000"
+cheat0_enable = "false"
+cheat0_handler = "0"

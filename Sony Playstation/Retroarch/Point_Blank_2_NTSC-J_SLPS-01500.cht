@@ -1,0 +1,10 @@
+# Game: Point Blank 2 (Gunbarl)
+# Compatible releases: NTSC-J, SLPS-01500
+# Alternate title: Gunbarl
+
+cheats = "1"
+
+cheat0_desc = "Remove lightgun flashes"
+cheat0_code = "80023F66 1000"
+cheat0_enable = "false"
+cheat0_handler = "0"
